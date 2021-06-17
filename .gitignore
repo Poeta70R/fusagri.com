@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Thumbs.db
+/public/
+.DS_Store
+/resources/
+\\.knit\\.md$
+\\.utf8\\.md$
