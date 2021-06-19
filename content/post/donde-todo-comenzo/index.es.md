@@ -6,10 +6,10 @@ slug: ''
 categories: []
 tags:
   - Historia
-  - Cagua
-  - Shell
-subtitle: 'Luis Marcano González, Presidente FUSAGRI'
-summary: '...en los valles centrales de Aragua y Carabobo, se concentraba el 70% de las tierras regadas del país, y de donde provenía más del 50% de la comida de los venezolanos. Es esa la razón, y no otra, de que allí se instalaran las Facultades de Agronomía y Veterinaria de la UCV, el Centro Nacional de Investigaciones Agropecuarias (CENIAP), las desaparecidas Escuela Práctica de Agricultura y la Escuela de Demostradoras del Hogar, y el Servicio Shell para el Agricultor.'
+  - Servicio Shell
+
+subtitle: 'Luis Marcano González, Presidente FUSAGRI, marcanogonzalez@fusagri.com'
+summary: 'En la Estación Experimental de Cagua (Aragua) se evaluaron y se adaptaron la casi totalidad de las tecnologías para la producción bajo riego de hortalizas. También se diseñaron, dirigieron y realizaron, tanto programas de extensión como de capacitación a través de cursos, días de campo, prensa, publicaciones, etc., que permitieron difundir los resultados exitosos al resto del país.'
 authors: []
 lastmod: '2021-04-27T02:06:27-03:00'
 featured: no

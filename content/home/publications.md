@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Folletos
-subtitle: 'publicados entre 1964-1991'
+subtitle: 'Publicados entre 1986-1991'
 
 content:
   # Page type to display. E.g. post, talk, publication...

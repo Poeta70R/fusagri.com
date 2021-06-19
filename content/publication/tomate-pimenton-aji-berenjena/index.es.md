@@ -32,25 +32,18 @@ abstract: La información contenida en este folleto proviene de trabajos que se 
 summary: ''
 
 tags:
-- solanáceas
-- tomate
-- pimentón
-- ají
-- berenjena
+- Solanáceas
+- Tomate
+- Pimentón
+- Ají
+- Berenjena
 
 featured: false
 
 links:
-- name: 'Solicitar publicación'
-url: ''
-#url_pdf: ''
-#url_code: ''
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+# - name: 'Solicitar publicación'
+# url: ''
+url_project: 'https://forms.gle/vDrehF3H75TCyUCk9'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

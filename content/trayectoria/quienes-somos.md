@@ -56,7 +56,7 @@ Una organización privada, autónoma, de servicio público, sin fines de lucro y
 - Adiestramiento en disciplinas relacionadas con la agricultura.
 
 ## COMO LO HACEMOS?
-Establecemos convenios con organismos y/o empresas patrocinantes (publicas o privadas, nacionales o internacionales) las cuales aportan los recursos económicos para realizar las actividades propuestas en determinada área del país
+Establecemos convenios con organismos y/o empresas patrocinantes (publicas o privadas, nacionales o internacionales) las cuales aportan los recursos para realizar las actividades propuestas en determinada área del país
 
 ## ORIGENES
 La institución fue creada en 1952 bajo la denominación Servicio Shell para el Agricultor, con el principal objetivo de contribuir al desarrollo agrícola del país. [Leer más](/post/donde-todo-comenzo/)

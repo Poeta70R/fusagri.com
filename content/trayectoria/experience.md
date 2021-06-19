@@ -106,9 +106,8 @@ experience:
     description: |2-
         Objetivos y logros:
         
-        * Este Programa de Manejo y Conservación de Cuencas Hidrográficas, se realizó entre los años 1998-1997, en la Sierra de San Luis, localizada en la parte occidental de la Cordillera Norte Costera de Venezuela en el Estado Falcón, la región más árida del país.
-        * Partiendo de un diagnóstico inicial realizado por FUSAGRI se propuso al Ministerio del Ambiente y de los Recursos Naturales Renovables (MARNR) un programa de capacitación para un desarrollo socioeconómico sustentable. [Leer más](/post/extension-conservacionista/)
-          
+        * Este Programa de Manejo y Conservación de Cuencas Hidrográficas, se realizó entre los años 1988-1997, en la Sierra de San Luis, localizada en la parte occidental de la Cordillera Norte Costera de Venezuela en el Estado Falcón, la región más árida del país. [Leer más](/post/extension-conservacionista/)
+        
 
 design:
   columns: '1'

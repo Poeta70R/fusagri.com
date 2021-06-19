@@ -30,24 +30,17 @@ abstract: La información incluida en este folleto es producto de la experiencia
 summary: ''
 
 tags:
-- cucurbitáceas
-- melón
-- patilla
-- pepino
+- Cucurbitáceas
+- Melón
+- Patilla
+- Pepino
 
 featured: false
 
 links:
-- name: 'Solicitar publicación'
-url: ''
-#url_pdf: ''
-#url_code: ''
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+# - name: 'Solicitar publicación'
+# url: ''
+url_project: 'https://forms.gle/sCya9Fk2j8NVMhQL8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

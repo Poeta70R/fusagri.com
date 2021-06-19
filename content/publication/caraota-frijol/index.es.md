@@ -32,16 +32,17 @@ abstract: La información contenida en este folleto es producto de las investiga
 # Summary. An optional shortened abstract.
 summary: ''
 tags:
-- caraota
-- frijol
-- leguminosas
-- nutrición
+- Caraota
+- Frijol
+- Leguminosas
+- Nutrición
 
 featured: false
 
 links:
-- name: 'Solicitar publicación'
-url: ''
+# - name: ''
+# url: ''
+url_project: 'https://forms.gle/V2669Q28zderUFGEA'
 
 
 # Featured image

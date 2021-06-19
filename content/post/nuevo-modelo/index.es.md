@@ -11,8 +11,8 @@ tags:
 - Desarrollo sostenible
 - Seguridad alimentaria
 
-subtitle: 'Luis López-Méndez, FUSAGRI '
-summary: 'Si bien es imprescindible promover políticas alimentarias sostenibles que contemplen toda la cadena, desde la producción, almacenamiento y transporte hasta el consumo, también lo es  estimular la aplicación de buenas prácticas para  reducir la huella climática de las operaciones agrícolas, con el propósito de lograr una producción diversificada, acompañada con la generación de empleos calificados en las áreas rurales.'
+subtitle: 'Luis López-Méndez, Director FUSAGRI, lopezmendez@fusagri.com'
+summary: 'El gran reto del nuevo modelo agrícola es impulsar el desarrollo sostenible de la pequeña y mediana agricultura, cuya contribución a la seguridad alimentaria y nutricional de los territorios rurales es determinante, pero donde se continúan aplicando prácticas agrícolas ineficientes y ambientalmente insostenibles, especialmente en las zonas montañosas.'
 authors: []
 lastmod: '2021-04-27T22:29:20-03:00'
 featured: no

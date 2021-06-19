@@ -8,6 +8,8 @@ type: bioeconomia
 draft: false
 summary: Esta plataforma virtual tiene como objetivo facilitar el acceso a las diferentes tecnologías que permiten un aprovechamiento más eficiente y sostenible de los recursos y principios biológicos, constituyendo así un pilar fundamental de la bioeconomía.
 tags:
-- Tecnologías 
+- Tecnologías
+- Bioeconomía
+
 title: "Catálogo dinámico de tecnologías para la bioeconomía"
 ---

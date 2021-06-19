@@ -10,6 +10,6 @@ summary: La bioeconomía circular tiene el potencial de coadyuvar a transformar 
 tags:
 - Noticias
 - Bioeconomía circular
-- LAC
+- Congresos
 title: "Primer Congreso Internacional de Bioeconomía Circular, Retos y Oportunidades 2021"
 ---

@@ -30,24 +30,17 @@ abstract: Esta publicación recopila información actualizada sobre la producci�
 summary: ''
 
 tags:
-- hortalizas
-- cruciferas
-- postcosecha
+- Hortalizas
+- Cruciferas
+- Postcosecha
 
 featured: false
 
 links:
-- name: 'Solicitar publicación'
-url: ''
+# - name: 'Solicitar publicación'
+# url: ''
+url_project: 'https://forms.gle/JnjwYApb1JTBvcydA'
 
-#url_pdf: ''
-#url_code: ''
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

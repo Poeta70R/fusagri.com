@@ -34,20 +34,20 @@ abstract: La información contenida en esta publicación es producto de la inves
 summary: ''
 
 tags:
-- pastos
-- forrajes
-- ganadería
+- Pastos
+- Forrajes
+- Ganadería
 
 featured: false
 
 links:
-- name: 'Solicitar publicación'
-url: ''
+# - name: ''
+#url:''
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
-#url_project: ''
+url_project: 'https://forms.gle/itSGtxM98XXXpmK78'
 #url_slides: ''
 #url_source: ''
 #url_video: ''
