@@ -1,6 +1,6 @@
 theme: starter-academic
 title: FUSAGRI
-baseurl: '/'
+baseurl: 'https://www.fusagri.com/'
 copyright: '&copy;Luis López-Méndez {year}'
 enableGitInfo: no
 defaultContentLanguage: es

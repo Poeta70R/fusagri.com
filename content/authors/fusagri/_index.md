@@ -12,7 +12,7 @@ social:
   link: https://twitter.com/fusagri
 - icon: github
   icon_pack: fab
-  link: https://github.com/Poeta70R/modelo
+  link: https://github.com/Poeta70R/fusagri.com
 superuser: true
 title: ""
 ---
