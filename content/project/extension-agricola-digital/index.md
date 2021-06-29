@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 type: project
 draft: false
-summary: La digitalización de la agricultura puede hacer un aporte fundamental a la transformación de los sistemas alimentarios. La introducción de tecnologías digitales a la agricultura ofrece múltiples beneficios necesarios para avanzar hacia sistemas alimentarios sostenibles, como por ejemplo, aumentar la producción, disminuir impactos en la salud y el ambiente, reducir asimetrías de información y oportunidades entre productores, y mejorar las condiciones de trabajo y de vida rural.
+summary: La introducción de tecnologías digitales a la agricultura ofrece múltiples beneficios necesarios para avanzar hacia sistemas alimentarios sostenibles, como por ejemplo, aumentar la producción, disminuir impactos en la salud y el ambiente, reducir asimetrías de información y oportunidades entre productores, y mejorar las condiciones de trabajo y de vida rural.
 
 tags:
 - Extensión Rural

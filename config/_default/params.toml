@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Fundación Servicio para el Agricultor (FUSAGRI)"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "autonomus, non-profit, non-governmental organization involved in promoting sustainable agriculture and rural development"
+description = "ONG, autónoma, sin fines de lucro, dedicada a impulsar el desarrollo sostenible de la agricultura y del medio rural venezolano"
 
 ############################
 ## Site Features

@@ -50,7 +50,7 @@ height = "500px"
 
 [[item]]
   title = ""
-  content = "FUSAGRI brindó el soporte técnico para el desarrollo de la viticultura en el Estado Zulia, entre 1.980 y 1.991, cuando se establecieron los primeros viñedos destinados a uva para vinos y otros usos, y las primeras plantas procesadoras."
+  content = "FUSAGRI brindó el soporte técnico para el desarrollo de la viticultura en el Estado Zulia, entre 1.980 y 1.991, período en el cual se consolidó la producción de uva de mesa, se establecieron los primeros viñedos destinados a uva para vinos y otros usos, y las primeras plantas procesadoras."
   align = "center"
 
   overlay_color = "#404040"  # An HTML color value.

@@ -4,12 +4,12 @@ external_link: ""
 image:
   caption:
   focal_point: Smart
-summary: La visión de FUSAGRI es que la agricultura venezolana debe ser concebida como un proceso integral, circular, basado en la producción eficiente de biomasa, maximizando no solo la producción y sino también la utilización de esa biomasa.
+summary: La visión de FUSAGRI es que la agricultura venezolana debe ser concebida como un proceso integral, circular, basado en la producción eficiente de biomasa, maximizando no solo la producción y sino también la utilización de esa biomasa, con una economía de repetición más que de escala, y principalmente enfocada al desarrollo sostenible e inclusivo.
 
 tags:
 - Venezuela
 - Bioeconomía
-title: FUSAGRI, la Bioeconomía y la agricultura venezolana.
+title: FUSAGRI, Bioeconomía y la agricultura venezolana.
 ---
 
 La economía venezolana sobre la base del petróleo, o lo que queda de ella, que ya había mostrado sus signos y síntomas de debilidad e inviabilidad, ha terminado en colapsar en los últimos años, trayendo como consecuencia una descomunal crisis, tanto económica, como social y ambiental.
