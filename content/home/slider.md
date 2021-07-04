@@ -36,7 +36,7 @@ height = "500px"
 
 [[item]]
   title = ""
-  content = "FUSAGRI ha hecho importantes aportes al desarrollo agrícola venezolano mediante diversos Programas y Proyectos, y en la formación de talentos,  así como también apoyando la creación de empresas y organizaciones integradas al sistema agrícola nacional."
+  content = "FUSAGRI ha hecho importantes aportes al desarrollo agrícola venezolano mediante diversos Programas y Proyectos, y en la formación de talentos,  así como también apoyando la creación de empresas y organizaciones integradas al sistema alimentario nacional."
   align = "center"
 
   overlay_color = "#404040"  # An HTML color value.
@@ -92,7 +92,7 @@ height = "500px"
  
 [[item]]
   title = ""
-  content = "En la nueva agricultura venezolana se requiere promover y estimular la aplicación de buenas prácticas para reducir la huella climática de las operaciones agrícolas y lograr una producción diversificada, acompañada con la generación de empleos calificados en las áreas rurales."
+  content = "En la nueva agricultura venezolana se requiere promover y estimular la aplicación de buenas prácticas agrícolas (BPA) para reducir la huella climática y lograr una producción diversificada y saludable, acompañada con la generación de empleos calificados, en las áreas rurales."
   align = "center"
 
   overlay_color = "#404040"  # An HTML color value.
@@ -106,7 +106,7 @@ height = "500px"
  
  [[item]]
   title = ""
-  content = "La visión de FUSAGRI es que la agricultura venezolana debe ser concebida como un proceso integral, circular, basado en la producción eficiente de biomasa, maximizando no solo la producción y sino también la utilización de esa biomasa"
+  content = "La visión de FUSAGRI es que la agricultura venezolana debe ser concebida como un proceso integral, circular, basado en la producción eficiente de biomasa, maximizando no solo la producción y sino también la utilización de esa biomasa."
   align = "center"
 
   overlay_color = "#404040"  # An HTML color value.

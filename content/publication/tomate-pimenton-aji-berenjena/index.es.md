@@ -2,7 +2,7 @@
 title: TOMATE, PIMENTÓN, AJÍ Y BERENJENA
 authors:
 - Ángel Flores (+) 
-- Héctor Ayala
+- Héctor Ayala (+)
 - Pedro Juan Rodríguez
 - R. Mendt (+)/M. Albarracín
 - Mario Cermeli

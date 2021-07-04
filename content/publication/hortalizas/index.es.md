@@ -2,7 +2,7 @@
 title: HORTALIZAS
 authors:
 - Ángel Flores (+) 
-- Héctor Ayala
+- Héctor Ayala (+)
 - Pedro Juan Rodríguez
 - Mauro Albarracín
 - Mario Cermeli

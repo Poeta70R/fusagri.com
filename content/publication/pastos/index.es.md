@@ -2,7 +2,7 @@
 title: PASTOS
 authors:
 - Baldomero González 
-- Héctor Ayala
+- Héctor Ayala (+)
 - P.J. Rodríguez/C. García
 - Roland Mendt (+)
 - Mario Cermeli

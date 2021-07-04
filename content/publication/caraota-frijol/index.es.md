@@ -2,11 +2,11 @@
 title: CARAOTA Y FRIJOL
 authors:
 - Darío Boscán (+) 
-- Héctor Ayala
+- Héctor Ayala (+)
 - Pedro Juan Rodríguez
 - Roland Mendt (+)
 - Mario Cermeli
-- Victor Grana
+- Victor Grana (+)
 - J Salazar/L Marcano G
 author_notes:
 - 'Generalidades. Clima. Cultivares. Siembra. Cosecha y trilla'

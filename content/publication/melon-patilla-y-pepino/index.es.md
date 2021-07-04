@@ -2,7 +2,7 @@
 title: MELÓN, PATILLA Y PEPINO
 authors:
 - Ángel Flores (+) 
-- Héctor Ayala
+- Héctor Ayala (+)
 - Victor Grana (+)
 - Pedro Juan Rodríguez
 - Mario Cermeli
