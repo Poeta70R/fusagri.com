@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Nuevos títulos disponibles
+title: UVERITO Futuro Verde de Venezuela
 subtitle:
 
 design:
   columns: "2"
 
   background:
-    image: headers/libros.jpg
+    image: headers/pinos.jpg
     image_darken: 0.8
     image_parallax: false
     image_position: center
@@ -27,18 +27,13 @@ design:
     text_color_light: true
   
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "100px", "500px"]
     
 --- 
 
-**FERTILIZANTES Y FERTILIZACIÓN** 
+Actualmente se considera al **Bosque de Uverito** como la primera actividad bioeconómica llevada a cabo en el país, el cuál debería convertirse en una **biorrefinería forestal integral.** Esta estrategia, junto con la incorporación de nuevas tecnologías, mejoras en la gestión y desarrollo de nuevos productos, sin duda resultaría en un óptimo aprovechamiento del bosque.
 
-Serie Petróleo y Agricultura # 2 (2da Edición)
+[Leer más](/bioeconomia/)
 
-**LECHOSA**
-
-Serie Petróleo y Agricultura # 6 (2da Edición)
-
-[Ir a Biblioteca](/publication/).
 
 
