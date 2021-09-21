@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: UVERITO Venezuela's Green Future
+title:
 subtitle:
 
 design:
   columns: "2"
 
   background:
-    image: headers/pinos.jpg
+    image: headers/encuentros.jpg
     image_darken: 0.8
     image_parallax: false
     image_position: center
@@ -27,13 +27,11 @@ design:
     text_color_light: true
   
   spacing:
-    padding: ["100px", "0", "100px", "500px"]
+    padding: ["550px", "0", "250px", "0"]
     
 --- 
 
-Currently considered as the first bioeconomic activity carried out in Venezuela, **Uverito Forest** should be transform into an **integral wood biorefinery**. This strategy along with the incorporation of novel technologies, improvements in management, and new products development, would undoubtedly result in optimal use of the forest.
-
-[Learn more about Uverito](/bioeconomia/)
+ [**<<MORE INFORMATION>>**](./bioeconomia/)
 
 
 

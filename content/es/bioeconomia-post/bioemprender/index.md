@@ -8,6 +8,7 @@ type: bioeconomia
 draft: false
 summary: Plataforma virtual con recursos para la sensibilización, fortalecimiento de capacidades y herramientas para la construcción de planes de negocios de la bioeconomía.
 tags:
+- Bioemprender
 - Bio-emprendimiento
 - Bionegocios
 title: "Bioemprender: Plataforma de apoyo al emprendimiento de base bioeconómica"
