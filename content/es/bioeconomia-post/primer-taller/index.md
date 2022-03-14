@@ -6,14 +6,15 @@ image:
   focal_point: Smart
 type: bioeconomia
 draft: false
-summary: Las distintas experiencias latinoamericanas en el avance de los bioisumos agropecuarios, nos indican que las políticas públicas debidamente armonizadas con el ecosistema de los emprendimientos locales (pequeñas empresas y artesanos) y las multinacionales, constituyen un vigoroso instrumento para el desarrollo integral de esta indispensable bioindustria en el camino hacia una agricultura sostenible.  
+summary: Las distintas experiencias latinoamericanas en el avance de los bioisumos agropecuarios, nos indican que las políticas públicas debidamente armonizadas con el ecosistema de los emprendimientos locales (pequeñas empresas y artesanos) y las multinacionales, constituyen un vigoroso instrumento para el desarrollo integral de esta indispensable bioindustria en el camino hacia una agricultura sostenible.
 tags:
 - Venezuela
 - Bioinsumos
+- Sistema Alimentario
 - Seguridad Alimentaria
-- Sistemas Alimentarios
 - Agro-Bio-Industria
 - Bionegocios
+
 title: “Políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos agrícolas. Caso Argentina”
 
 subtitle: 

@@ -12,14 +12,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Ciclo de Encuentros Virtuales (Taller) “Políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos agrícolas. Caso Argentina”
-subtitle:
+title: Seminar “Development and production of Biological Control Agents in Venezuela”
+
+subtitle: February 23, 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
+
 
 design:
   columns: "1"
 
   background:
-    image: headers/plantas.jpg
+    image: headers/biofer.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
