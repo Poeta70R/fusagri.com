@@ -12,17 +12,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Seminar “Development and production of Biological Control Agents in Venezuela”
+title: Workshop "Public policies and the role of private sector in the development of bio inputs. The Case of Brazil”
 
-subtitle: February 23, 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
+subtitle: March 16, 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
 
 
 design:
   columns: "1"
 
   background:
-    image: headers/biofer.jpg
-    image_darken: 0.5
+    image: headers/taller3.jpg
+    image_darken: 0.4
     image_parallax: false
     image_position: center
     image_size: cover

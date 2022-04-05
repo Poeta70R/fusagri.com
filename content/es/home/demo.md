@@ -12,16 +12,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Seminario “Desarrollo y producción de Agentes de Control Biológico en Venezuela”
+title: Taller "Las políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos. Caso Brasil"
 
-subtitle: 23 de febrero de 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
+subtitle: 16 de marzo de 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
 
 design:
   columns: "1"
 
   background:
-    image: headers/biofer.jpg
-    image_darken: 0.5
+    image: headers/taller3.jpg
+    image_darken: 0.4
     image_parallax: false
     image_position: center
     image_size: cover
