@@ -12,15 +12,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Taller "Las políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos. Caso Brasil"
+title: IV Seminario “Experiencias sobre el control y erradicación de *la enfermedad* de los cítricos HLB en ALyC” 
 
-subtitle: 16 de marzo de 2022 *** 10:00 AM Venezuela, 8:00 AM Costa Rica, 11:00 AM Brasil ***
+subtitle: 20 de abril de 2022 *** 10:00 AM Venezuela, 11:00 AM Brasil/Argentina, 9:00 AM México, 8:00 AM Costa Rica  ***
 
 design:
   columns: "1"
 
   background:
-    image: headers/taller3.jpg
+    image: headers/mg.jpg
     image_darken: 0.4
     image_parallax: false
     image_position: center
