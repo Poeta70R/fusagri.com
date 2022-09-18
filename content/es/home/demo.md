@@ -12,15 +12,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: V Seminario “Biorremediación de Suelos y Aguas en Venezuela” 
+title: III Taller “Las políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos. Caso Colombia” 
 
-subtitle: 18 de mayo de 2022 *** 10:00 AM Venezuela, 11:00 AM Brasil/Argentina, 9:00 AM México, 8:00 AM Costa Rica  ***
+subtitle: 14 de septiembre de 2022 *** 10:00 AM Venezuela, 9:00 AM Colombia, 8:00 AM Costa Rica  ***
 
 design:
   columns: "1"
 
   background:
-    image: headers/biorem.jpg
+    image: headers/bioin.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
