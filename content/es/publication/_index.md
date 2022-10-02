@@ -16,5 +16,5 @@ view: 2
   </style>
   <section>
       <div> 
-      <p style="color:black"><strong>NOTA:</strong> Todas nuestras publicaciones son de  <i>libre acceso</i>. Solicítela pulsando el botón correspondiente. También puede hacerlo enviándonos un <a href="mailto:contacto@fusagri.com"><strong>correo electrónico</strong></a>.</p></div>
+      <p style="color:black"><strong>NOTA:</strong> Todas nuestras publicaciones son de  <i>libre acceso</i>. Acceda pulsando el botón correspondiente. También puede hacerlo enviándonos un <a href="mailto:contacto@fusagri.com"><strong>correo electrónico</strong></a>.</p></div>
   </section>
