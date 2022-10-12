@@ -1,5 +1,5 @@
 ---
-title: CARACTERIZACIÓN DEL SECTOR BIOINSUMOS AGROPECUARIOS EN VENEZUELA
+title: Caracterización del sector bioinsumos agropecuarios en Venezuela
 #authors:
  #author_notes:
 date: '2022-04-15'
