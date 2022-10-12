@@ -12,15 +12,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: III Taller “Las políticas públicas y el rol del sector privado en el desarrollo de los bioinsumos. Caso Colombia” 
+title: VII Seminario “La Bioeconomía ¿marco para el desarrollo agrícola sostenible que demanda Venezuela?” 
 
-subtitle: 14 de septiembre de 2022 *** 10:00 AM Venezuela, 9:00 AM Colombia, 8:00 AM Costa Rica  ***
+subtitle: 5 de octubre de 2022 *** 10:00 AM Venezuela, 11:00 AM Argentina, 9:00 AM Colombia, 8:00 AM Costa Rica  ***
 
 design:
   columns: "1"
 
   background:
-    image: headers/bioin.jpg
+    image: headers/bioed.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
