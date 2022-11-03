@@ -64,6 +64,8 @@ elaboración de jugos , al mismo tiempo que son altamente recomendables
 en el periodo post pandemia COVID-19. Ya es muy común observar limones y
 naranjas importadas en los supermercados.
 
+<img src="naranjas.jpg" class="center-block" style="width:80%;">
+
 Por otro lado, se puede apreciar que en distintas zonas, algunos
 productores tradicionales ya han sustituido sus plantaciones con cacao,
 o lo que es más grave aún, por cultivos anuales o pastizales con la
@@ -173,7 +175,7 @@ estar pendiente de los desarrollos tecnológicos que se están gestando en
 el ámbito internacional, de manera de poder incorporarlos a nuestras
 realidades en la medida de lo posible y que esto también requerirá
 fortalecimiento de capacidades locales, convenientemente vinculado intra
-e interinstitucionalmente. En tal sentido, y como acciones inmediatas,
+e interinstitucionalmente. En tal sentido, y como acciones previstas,
 se realizaran encuentros con expertos en HLB de instituciones regionales
 (México, Argentina y Colombia) en procura de cooperación
 técnico-financiera para adaptación local de tecnologías de MIR,
