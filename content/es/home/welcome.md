@@ -9,12 +9,12 @@ weight: 10  # Order that this section will appear.
 title: Fundación Servicio para el Agricultor
 subtitle:
 
-hero_media: "circle-cropped2.png"
+hero_media: "70.jpg"
 
 design:
   background:
     # Name of image in `assets/media/`.
-    image: fondo4.png
+    image: fondo.png
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 1
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -36,6 +36,6 @@ advanced:
 
 
 
- A punto de cumplir 70 años apoyando la agricultura venezolana, reiteramos nuestro compromiso por la recuperación y fortalecimiento del sistema alimentario nacional en el proceso de la reconstrucción del país, cumpliendo con los **Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030**
+ En nuestro 70 aniversario ratificamos el compromiso de continuar apoyando a la agricultura venezolana, para la recuperación y transformacion del Sistema Alimentario Nacional, cumpliendo con los **Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030**
 
 
