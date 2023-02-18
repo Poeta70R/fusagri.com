@@ -4,14 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Background"
-  url = "trayectoria/"
+  identifier = "resume"
+  name = "About Us"
+  url = "nosotros/"
   weight = 10
 
+[[main]]
+  identifier = "resume1"
+  name = "Background"
+  url = "trayectoria/"
+  parent = "resume"
+  weight = 15
 
 [[main]]
-  name = "Projects"
+  identifier = "resume2"
+  name = "What We Do"
   url = "projects/"
+  parent = "resume"
   weight = 20
 
 [[main]]
@@ -33,6 +42,7 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

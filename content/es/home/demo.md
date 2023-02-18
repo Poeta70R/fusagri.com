@@ -12,15 +12,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: VII Seminario “La Bioeconomía ¿marco para el desarrollo agrícola sostenible que demanda Venezuela?” 
+title: “Beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz” 
 
-subtitle: 5 de octubre de 2022 *** 10:00 AM Venezuela, 11:00 AM Argentina, 9:00 AM Colombia, 8:00 AM Costa Rica  ***
+subtitle: En este seminario se mostrará como el manejo y la utilización de la paja de arroz es esencial para mejorar la fertilidad y salud de los suelos arroceros, así como también para disminuir significativamente la emisión de GEI y aumentar el secuestro de carbono
 
 design:
   columns: "1"
 
   background:
-    image: headers/bioed.jpg
+    image: headers/rice.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
@@ -32,6 +32,6 @@ design:
     
 --- 
 
-[**<<<MÁS INFORMACIÓN>>>**](./bioeconomia/)
+[**<<<MÁS INFORMACIÓN>>>**](/bioeconomia-post/bioinsumos-arroz/)
 
 

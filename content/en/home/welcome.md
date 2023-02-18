@@ -36,4 +36,4 @@ advanced:
 
 
 
-Nearing 70 years of supporting Venezuelan agriculture, we reiterate our commitment to recover and strengthen the national food system in the country's rebuilding process, fulfilling the **Sustainable Development Goals (SDG) of the 2030 Agenda.**
+On our 70th anniversary we reiterate our commitment to continue supporting Venezuelan agriculture for the recovery and transformation of the National Food System, in compliance with the **Sustainable Development Goals (SDG) of the 2030 Agenda.**

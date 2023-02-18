@@ -4,14 +4,23 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Trayectoria"
-  url = "trayectoria/"
+  identifier = "resume"
+  name = "Nosotros"
+  url = "nosotros/"
   weight = 10
 
+[[main]]
+  identifier = "resume1"
+  name = "Trayectoria"
+  url = "trayectoria/"
+  parent = "resume"
+  weight = 15
 
 [[main]]
+  identifier = "resume2"
   name = "Areas de Accion"
   url = "projects/"
+  parent = "resume"
   weight = 20
 
 [[main]]
