@@ -24,24 +24,29 @@
   weight = 20
 
 [[main]]
+  name = "News"
+  url = "actualidades/"
+  weight = 30
+
+[[main]]
   name = "Blog"
   url = "#posts"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "publication/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Bioeconomy"
   url = "bioeconomia/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.

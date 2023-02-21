@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 52
+weight: 62
 
 title: Información actualizada sobre Bioeconomía
 subtitle: 
