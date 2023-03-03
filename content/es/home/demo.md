@@ -14,7 +14,7 @@ weight: 25
 
 title: “Beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz” 
 
-subtitle: En este seminario se mostrará como el manejo y la utilización de la paja de arroz es esencial para mejorar la fertilidad y salud de los suelos arroceros, así como también para disminuir significativamente la emisión de GEI y aumentar el secuestro de carbono
+subtitle: En este seminario se demostró como el manejo y la utilización de los residuos de cosecha son esenciales para mejorar la fertilidad y salud de los suelos arroceros, así como también para disminuir significativamente la emisión de GEI y aumentar el secuestro de carbono
 
 design:
   columns: "1"
