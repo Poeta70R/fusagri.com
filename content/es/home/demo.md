@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: “Beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz” 
+title: “Realizado seminario acerca de los beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz” 
 
 subtitle: En este seminario se demostró como el manejo y la utilización de los residuos de cosecha son esenciales para mejorar la fertilidad y salud de los suelos arroceros, así como también para disminuir significativamente la emisión de GEI y aumentar el secuestro de carbono
 

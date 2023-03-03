@@ -15,7 +15,7 @@ tags:
 - Bioinsumos
 - Suelos
 
-title: "Beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz"
+title: "Culminado exitosamente seminario sobre los beneficios de la utilización de bioinsumos en la producción de arroz"
 
 subtitle: 
 
