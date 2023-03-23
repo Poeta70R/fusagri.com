@@ -44,6 +44,7 @@ links:
 # - name: 'Solicitar publicación'
 # url: ''
 url_project: 'https://forms.gle/vDrehF3H75TCyUCk9'
+#url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -40,6 +40,7 @@ links:
 # - name: 'Solicitar publicación'
 # url: ''
 url_project: 'https://forms.gle/JnjwYApb1JTBvcydA'
+#url_pdf: ''
 
 
 # Featured image

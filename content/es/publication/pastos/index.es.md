@@ -48,9 +48,7 @@ links:
 #url_dataset: ''
 #url_poster: ''
 url_project: 'https://forms.gle/itSGtxM98XXXpmK78'
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+#url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

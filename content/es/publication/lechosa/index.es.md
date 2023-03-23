@@ -30,14 +30,15 @@ abstract: La información incluida en este folleto es fruto de la experiencia ac
 summary: ''
 tags:
 - Lechosa
+- Frutales
 
 featured: false
 
 links:
 # - name: 'Solicitar publicación'
 # url: ''
-# url_project: 'https://forms.gle/7iMr49cxi81wz2G37'
-url_pdf: 'publication/lechosa/folleto_Lechosa.pdf'
+url_project: 'https://forms.gle/7iMr49cxi81wz2G37'
+#url_pdf: ''
 
 
 # Featured image
