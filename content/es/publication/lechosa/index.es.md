@@ -36,7 +36,8 @@ featured: false
 links:
 # - name: 'Solicitar publicación'
 # url: ''
-url_project: 'https://forms.gle/7iMr49cxi81wz2G37'
+# url_project: 'https://forms.gle/7iMr49cxi81wz2G37'
+url_pdf: 'publication/lechosa/folleto_Lechosa.pdf'
 
 
 # Featured image

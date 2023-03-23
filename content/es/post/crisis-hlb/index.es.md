@@ -12,7 +12,7 @@ tags:
 - Greening
 - Dragón amarillo 
 - Diaphorina citri
-subtitle: ''
+subtitle: 'Luis López-Méndez, Director FUSAGRI, lopezmendez@fusagri.com'
 summary: 'La crisis causada por el HLB de las cítricas , puede ser aprovechada como una oportunidad para crear una nueva citricultura, que logre integrar la seguridad alimentaria y el mejoramiento de la calidad de las frutas, así como explorar eventuales mercados de exportación, en un marco ambientalmente sostenible y de desarrollo económico territorial'
 authors: []
 lastmod: '2022-11-01T00:46:55-03:00'
