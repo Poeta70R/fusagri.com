@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 type: actualidades
 draft: false
-summary: El Acuerdo General de Cooperación Técnica permitirá profundizar la alianza institucional para impulsar a la Bioeconomía como estrategia para el desarrollo sostenible de la agricultura venezolana , la generación de propuestas de impacto y la procura de apalancamiento de recursos en estas áreas estratégicas y otros temas vinculantes de relevancia para el país, así como tambiéncontribuirá al desarrollo de las acciones del Plan de Mediano Plazo 2022-2026 del IICA.
+summary: El Acuerdo General de Cooperación Técnica permitirá profundizar la alianza institucional para impulsar a la Bioeconomía como estrategia para el desarrollo sostenible de la agricultura venezolana , la generación de propuestas de impacto y la procura de apalancamiento de recursos en estas áreas estratégicas y otros temas vinculantes de relevancia para el país, así como también contribuirá al desarrollo de las acciones del Plan de Mediano Plazo 2022-2026 del IICA.
 
 tags:
 - Noticias
@@ -27,7 +27,7 @@ En el marco de esta alianza, los esfuerzos se han orientado a la promoción del 
 
 Además, recientemente se han abordados los temas de la recuperación de la citricultura nacional mediante la promoción de una estrategia de manejo integral, el estudio de los potenciales impactos del cambio climático en la producción agrícola, especialmente en los rubros café, cacao y arroz.
 
-El Acuerdo General de Cooperación Técnica permitirá profundizar la alianza institucional para impulsar a la Bioeconomía como estrategia para el desarrollo sostenible de la agricultura venezolana , la generación de propuestas de impacto y la procura de apalancamiento de recursos en estas áreas estratégicas y otros temas vinculantes de relevancia para el país, así como tambiéncontribuirá al desarrollo de las acciones del Plan de Mediano Plazo 2022-2026 del IICA, tales como: innovación y bioeconomía, desarrollo territorial y agricultura familiar, sanidad agropecuaria, inocuidad y calidad de los agroalimentos, digitalización agroalimentaria, equidad de género y juventud.
+El Acuerdo General de Cooperación Técnica permitirá profundizar la alianza institucional para impulsar a la Bioeconomía como estrategia para el desarrollo sostenible de la agricultura venezolana , la generación de propuestas de impacto y la procura de apalancamiento de recursos en estas áreas estratégicas y otros temas vinculantes de relevancia para el país, así como también contribuirá al desarrollo de las acciones del Plan de Mediano Plazo 2022-2026 del IICA, tales como: innovación y bioeconomía, desarrollo territorial y agricultura familiar, sanidad agropecuaria, inocuidad y calidad de los agroalimentos, digitalización agroalimentaria, equidad de género y juventud.
 
 *Fotos y texto de IICA-Venezuela (@iica_venezuela)*
 
