@@ -12,15 +12,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: “Realizado seminario acerca de los beneficios climáticos y económicos de la utilización de bioinsumos en la producción de arroz” 
+title: "Mesa Técnica
+Financiamiento climático y sostenibilidad de la producción de arroz" 
+ 
 
-subtitle: En este seminario se demostró como el manejo y la utilización de los residuos de cosecha son esenciales para mejorar la fertilidad y salud de los suelos arroceros, así como también para disminuir significativamente la emisión de GEI y aumentar el secuestro de carbono
+subtitle:
 
 design:
   columns: "1"
 
   background:
-    image: headers/rice.jpg
+    image: headers/mesar.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
@@ -28,10 +30,10 @@ design:
     text_color_light: true
   
   spacing:
-    padding: ["100px", "0", "100px", "0"]
+    padding: ["50px", "0", "50px", "0"]
     
 --- 
 
-[**<<<MÁS INFORMACIÓN>>>**](/bioeconomia-post/bioinsumos-arroz/)
+[**<<<MÁS INFORMACIÓN>>>**](/actualidades-post/mesa_arroz/)
 
 
