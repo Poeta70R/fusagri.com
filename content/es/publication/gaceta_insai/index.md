@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: ''
 #url:''
-url_pdf: 'publication/gaceta-insai/Providencia_INSAI_Insumos_Agroecológicos_Orgánicos.pdf'
+url_pdf: 'publication/gaceta_insai/Providencia_INSAI_Insumos_Agroecologicos_Organicos.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
