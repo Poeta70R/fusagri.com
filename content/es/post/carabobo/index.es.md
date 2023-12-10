@@ -43,4 +43,4 @@ En ese orden de ideas, Colmenarez, quien es Ingeniera Agrónomo egresada de la U
 Al finalizar el recorrido por la **Hacienda San Manuel**, su propietario, Pedro Tomás Pacheco, expuso a los asistentes un resumen pormenorizado de las implicaciones que el ataque del HLB ocasionó, afectando alrededor de 45 mil hectáreas y con ello a más de 15 millones de árboles de cítricos. Para luego proponer el plan de resiembra de 16.590 hectáreas en Carabobo que incluye 1.720 en el Municipio Montalbán, 1.240 en el Municipio Bejuma y 1.310 en el Municipio Miranda
 
 
-**Fuente:** El Guardián Informa, 28 de noviembre 2023. Diciembre 2023, Año 1, N° 2. LECO Producciones. Miranda - Carabobo.
+**Fuente:** El Guardián Informa, 29 de noviembre 2023. Diciembre 2023, Año 1, N° 2. LECO Producciones. Miranda - Carabobo.
