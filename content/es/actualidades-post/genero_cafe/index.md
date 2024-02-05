@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 type: actualidades
 draft: false
-summary: Los resultados iniciales de una investigación reciente realizada por FUSAGRI y profesores de FAGRO-UCV, con el patrocinio del IICA,  en dos territorios del eje cafetalero sureste del estado Lara, indican que existen diferencias en los niveles de rendimientos del café en los dos agroecosistemas evaluados, así como también en relación con el género. En la  Parroquia Yacambú, la mayoría de las “productoras” (57%) logran rendimientos de café en el nivel Promedio (7-12 qq/ha), mientras que el 54% de los “productores” se colocan en el nivel de rendimiento Alto (>12 qq/ha). En el caso de la Parroquia Hilario Luna y Luna, no hay diferencias destacadas en los niveles de rendimiento entre “productores” y “productoras".
+summary: Los resultados iniciales de una investigación reciente realizada por FUSAGRI y profesores de FAGRO-UCV, con el patrocinio del IICA,  en dos territorios del eje cafetalero sureste del estado Lara, indican que existen diferencias en los niveles de rendimientos del café en los dos agroecosistemas evaluados, así como también en relación con el género. En la  Parroquia Yacambú, la mayoría de las “productoras” (57%) logran rendimientos de café en el nivel Bajo (0-7 qq/ha), mientras que el 54% de los “productores” se colocan en el nivel de rendimiento Promedio (7-12 qq/ha). En el caso de la Parroquia Hilario Luna y Luna, no hay diferencias destacadas en los niveles de rendimiento entre “productores” y “productoras".
 
 tags:
 - Noticias
@@ -47,7 +47,7 @@ Destaca igualmente que  en PHLL, uno de cada cuatro productores es mujer (25,6%)
 <img src="gen_cafe.jpg" class="center-block" style="width:100%;">
 
 Cuando se examina el nivel de rendimiento en relación con el género se destacan diferencias entre las localidades estudiadas, pero también dentro de la misma (Figura 3).
-Por ejemplo, en PY, la mayoría de las “productoras” (57%) logran rendimientos de café en el nivel Promedio (7-12 qq/ha), mientras que el 54% de los “productores” se colocan en el nivel de rendimiento Alto (>12 qq/ha)
+Por ejemplo, en PY, la mayoría de las “productoras” (57%) logran rendimientos de café en el nivel Bajo (0-7 qq/ha), mientras que el 54% de los “productores” se colocan en el nivel de rendimiento Promedio (7-12 qq/ha)
 
 <img src="PY.jpg" class="center-block" style="width:100%;">
 
@@ -56,4 +56,4 @@ Pero además, sobresale el hecho de que el porcentaje de “productoras” en el
 
 <img src="PHLL.jpg" class="center-block" style="width:100%;">
 
-En consideración con esta información preliminar  y teniendo en cuenta que la importancia de la participación de la mujer en la producción de café es cada vez más reconocida en la cadena mundial de suministro, no solamente en el aspecto económico sino también en cuanto a calidad y sostenibilidad, así como también la urgencia de emprender acciones dirigidas a reducir las brechas y las desigualdades de género, de manera que conduzcan al empoderamiento y la inclusión igualitaria de las mujeres rurales en el desarrollo de los sistemas agroalimentarios, FUSAGRI y el IICA realizarán un estudio sobre el perfil de la mujer productora de café en la Parroquia Hilario Luna y Luna (municipio Moran, Estado Lara) que se aspira permita identificar casos de éxito (eficientes, sostenibles y replicables) en el proceso productivo del café.
+En consideración con esta información preliminar  y teniendo en cuenta que la importancia de la participación de la mujer en la producción de café es cada vez más reconocida en la cadena mundial de suministro, no solamente en el aspecto económico sino también en cuanto a calidad y sostenibilidad, así como también la urgencia de emprender acciones dirigidas a reducir las brechas y las desigualdades de género, de manera que conduzcan al empoderamiento y la inclusión igualitaria de las mujeres rurales en el desarrollo de los sistemas agroalimentarios, FUSAGRI y el IICA realizarán un estudio sobre el perfil de la mujer productora de café en la Parroquia Hilario Luna y Luna (Municipio Moran, Estado Lara) que se aspira permita identificar casos de éxito (eficientes, sostenibles y replicables) en el proceso productivo del café.
