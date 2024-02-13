@@ -18,8 +18,8 @@ tags:
 title: "LAS MUJERES PUEDEN AYUDAR A GARANTIZAR QUE LA INDUSTRIA CAFETALERA VENEZOLANA SEA SOSTENIBLE"
 ---
 
-La participación de las mujeres en la producción de café es de vital importancia para esta industria. Se estima que son responsables del 20 al 30% de las unidades económicas productoras de café en el mundo, y que su participación en la fuerza laboral agrícola del sector puede llegar a ser del 70% (Organización Internacional del Café, 2018). 
-En los últimos años, se han realizado esfuerzos para promover la participación de ellas en la producción de este rubro. Organizaciones como el Fondo Internacional de Desarrollo Agrícola (FIDA) y la Organización Internacional del Café (OIC), han desarrollado programas para apoyar a las caficultoras, brindándoles acceso a capacitación, financiamiento y otros recursos.
+La contribución de las mujeres en la producción de café es de vital importancia para esta industria. Se estima que son responsables del 20 al 30% de las unidades económicas productoras de café en el mundo, y que su participación en la fuerza laboral agrícola del sector puede llegar a ser del 70% (Organización Internacional del Café, 2018). 
+En los últimos años, se han realizado esfuerzos para promover sus aportes en la producción de este rubro. Organizaciones como el Fondo Internacional de Desarrollo Agrícola (FIDA) y la Organización Internacional del Café (OIC), han desarrollado programas para apoyar a las caficultoras, brindándoles acceso a capacitación, financiamiento y otros recursos.
 
 Un estudio del FIDA realizado en seis países productores de café (Colombia, Costa Rica, El Salvador, Guatemala, Honduras y México), encontró que las fincas cafetaleras dirigidas por mujeres tienen un rendimiento promedio 20% superior al de las fincas dirigidas por hombres. Este rendimiento superior se debe a una serie de factores, entre los que se incluyen:
 - Generalmente son más cuidadosas y dedicadas a la producción de café.
