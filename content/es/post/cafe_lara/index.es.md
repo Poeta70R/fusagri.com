@@ -12,7 +12,7 @@ tags:
 - Vunerabilidad
 - Resiliencia Climática
 
-subtitle: '**Oscar Silva**, Profesor de Conservación de Suelos y Agua, y de Modelos Agroambientales. Facultad de Agronomía, Universidad Central de Venezuela (oscarsilvae@gmail.com); **Víctor Sevilla**, Profesor de Evaluación de Tierras. Facultad de Agronomía, Universidad Central de Venezuela (samoy315@gmail.com)'
+subtitle: '**Oscar Silva**, Profesor de Conservación de Suelos y Agua, Modelos Agroambientales y Agroclimatología. Facultad de Agronomía, Universidad Central de Venezuela (oscarsilvae@gmail.com); **Víctor Sevilla**, Profesor de Evaluación de Tierras y Sistemas de Información Geográfica. Facultad de Agronomía, Universidad Central de Venezuela (samoy315@gmail.com)'
 summary: 'La información y los resultados presentados sobre las predicciones de cambios en el clima, su impacto en la aptitud de las tierras del *Eje Cafetalero Sureste del Estado Lara* , agregado a la vulnerabilidad de los caficultores con limitadas capacidades para implementar medidas de adaptación, pueden servir de base para orientar las políticas públicas para el incremento de la resiliencia climática, económica y social de las familias y los sistemas agroproductivos de pequeños productores de esta región'
 authors: []
 lastmod: '2024-02-15T22:29:20-03:00'
@@ -30,7 +30,7 @@ Para llegar a este resultado, se analizó la información climática histórica 
 <img src="figura1.jpg" class="center-block" style="width:100%;"> **Figura 1.** *Área de estudio: izquierda, localización en el estado Lara; derecha, división parroquial.*
 
 A partir del análisis y procesamiento de los registros históricos de 17 estaciones climatológicas y de información climatológica regional disponible, se caracterizó el clima histórico en función a los requerimientos del café arábica. Para ello, se obtuvo el comportamiento y distribución espacial (en mapas) de la precipitación, temperatura (máxima, media y mínima del mes más frío), evapotranspiración y duración del período seco. 
->Para obtener valores para el clima futuro, estos mismos parámetros se estimaron empleando dos modelos climáticos globales para el período 2041–2060. Finalmente, comparando los valores de los parámetros climáticos mencionados con los requerimientos del café arábica, se obtuvieron los mapas de aptitud de las tierras para este cultivo en el escenario de clima histórico y en los dos escenarios de clima futuro (uno por cada modelo climático global empelado).
+>Para obtener valores para el clima futuro, estos mismos parámetros se estimaron empleando dos modelos climáticos globales para el período 2041–2060. Finalmente, comparando los valores de los parámetros climáticos mencionados con los requerimientos del café arábica, se obtuvieron los mapas de aptitud de las tierras para este cultivo en el escenario de clima histórico y en los dos escenarios de clima futuro (uno por cada modelo climático global empleado).
 
 Los resultados mostraron que, en la mayor parte del área, generalmente sobre los 900 m de altitud, el clima es apto para la producción de café. Por debajo de esta cota, el régimen de temperatura limita, en cierta medida, el buen desarrollo del cultivo (como en el sur de la Parroquia Hilario y Luna), mientras que, por debajo de 600 m de altitud, la temperatura ofrece fuertes restricciones al cultivo. Adicionalmente, hacia el extremo nor-oriental del área de estudio (Parroquia Yacambú y sur de la Parroquia Pío Tamayo), la mayor precipitación ocasiona también moderadas limitaciones (**Figura 2**).
 
