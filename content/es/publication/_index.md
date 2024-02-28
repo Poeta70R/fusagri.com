@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Folletos
+title: Folletos, Artículos y Notas
 view: 2
 ---
 <html>
