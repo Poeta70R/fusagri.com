@@ -12,8 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: "Mesa Técnica
-Financiamiento climático y sostenibilidad de la producción de arroz" 
+title: "CURSO INTRODUCTORIO SOBRE CONTROL BIOLOGICO DE PLAGAS Y ENFERMEDADES" 
  
 
 subtitle:
@@ -22,7 +21,7 @@ design:
   columns: "1"
 
   background:
-    image: headers/mesar.jpg
+    image: headers/cursob.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
@@ -34,6 +33,6 @@ design:
     
 --- 
 
-[**<<<MÁS INFORMACIÓN>>>**](/actualidades-post/mesa_arroz/)
+[**<<<MÁS INFORMACIÓN>>>**](/actualidades-post/curso_yaracuy/)
 
 

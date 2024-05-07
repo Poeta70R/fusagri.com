@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 type: actualidades
 draft: false
-summary: Con gran éxito culminó el curso sobre Control Biológico de Plagas y Enfermedades, organizado por el Instituto Interamericano de Cooperación para la Agricultura (IICA), CAB Internacional-CABI y la Fundación Servicio para el Agricultor (FUSAGRI) en colaboración con Yaracuy PUEDE, la Gobernación del Estado Yaracuy y la Universidad Centroccidental Lisandro Alvarado (UCLA). El curso, que tuvo una duración de 3 dias, se desarrolló en las instalaciones de la Fundación DANAC (San Javier-Yaracuy) y contó con la participación de 34 profesionales y técnicos del sector agrícola y ambiental, tanto público como privado.
+summary: Con gran éxito culminó el curso sobre Control Biológico de Plagas y Enfermedades, organizado por el Instituto Interamericano de Cooperación para la Agricultura (IICA), CAB Internacional-CABI y la Fundación Servicio para el Agricultor (FUSAGRI) en colaboración con Yaracuy PUEDE, la Gobernación del Estado Yaracuy y la Universidad Centroccidental Lisandro Alvarado (UCLA). El curso, completamente gratuito y que tuvo una duración de 3 dias, se desarrolló en las instalaciones de la Fundación DANAC (San Javier-Yaracuy) y contó con la participación de 34 profesionales y técnicos del sector agrícola y ambiental, tanto público como privado.
 
 tags:
 - Noticias
@@ -18,7 +18,7 @@ tags:
 title: "CULMINA CON ÉXITO CURSO SOBRE CONTROL BIOLÓGICO DE PLAGAS"
 ---
 
-En el marco de las actividades que vienen realizando: el Instituto Interamericano de Cooperación para la Agricultura (IICA), CAB Internacional-CABI y la Fundación Servicio para el Agricultor (FUSAGRI), para promover la agricultura sostenible, en el estado Yaracuy se llevó a cabo con éxito un curso sobre control biológico de plagas, dirigido a profesionales y técnicos del sector público y privado, vinculados a la asistencia técnica y extensión agrícola. El curso, que tuvo una duración de 3 días (30 de abril y 2-3 de mayo, 2024) fue impartido por especialistas en el área y contó con la participación de 34 personas, provenientes de 27 organizaciones, 14 de ellas representadas por mujeres, resaltando la presencia de 7 asociaciones yaracuyanas de productores (agricultores y ganaderos).
+En el marco de las actividades que vienen realizando: el Instituto Interamericano de Cooperación para la Agricultura (IICA), CAB Internacional-CABI y la Fundación Servicio para el Agricultor (FUSAGRI), para promover la agricultura sostenible, en el estado Yaracuy se llevó a cabo con éxito un curso sobre control biológico de plagas, dirigido a profesionales y técnicos del sector público y privado, vinculados a la asistencia técnica y extensión agrícola. El curso, completamente gratuito y que tuvo una duración de 3 días (30 de abril y 2-3 de mayo, 2024) fue impartido por especialistas en el área y contó con la participación de 34 personas, provenientes de 27 organizaciones, 14 de ellas representadas por mujeres, resaltando la presencia de 7 asociaciones yaracuyanas de productores (agricultores y ganaderos).
 
 <img src="leccion.jpg" class="center-block" style="width:90%;">
 
