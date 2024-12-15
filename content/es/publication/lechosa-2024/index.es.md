@@ -39,8 +39,8 @@ featured: false
 links:
 # - name: 'Solicitar publicación'
 # url: ''
-url_project: 'https://forms.gle/irp1jwy7pari7coEA'
-#url_pdf: ''
+#url_project: ''
+url_pdf: 'publication/lechosa-2024/LECHOSA_2da_Ed.pdf'
 
 
 # Featured image
