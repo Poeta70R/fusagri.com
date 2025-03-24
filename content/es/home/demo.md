@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: "CURSO INTRODUCTORIO SOBRE CONTROL BIOLOGICO DE PLAGAS Y ENFERMEDADES" 
+title: "Perfil de la mujer productora de café en la parroquia Hilario Luna y Luna (Lara-Venezuela)" 
  
 
 subtitle:
@@ -21,7 +21,7 @@ design:
   columns: "1"
 
   background:
-    image: headers/cursob.jpg
+    image: headers/perfil.jpg
     image_darken: 0.5
     image_parallax: false
     image_position: center
@@ -29,10 +29,10 @@ design:
     text_color_light: true
   
   spacing:
-    padding: ["50px", "0", "50px", "0"]
+    padding: ["50px", "0", "0", "50px"]
     
 --- 
 
-[**<<<MÁS INFORMACIÓN>>>**](/actualidades-post/curso_yaracuy/)
+[**<<<MÁS INFORMACIÓN>>>**](/publication/estudio_perfil/)
 
 
