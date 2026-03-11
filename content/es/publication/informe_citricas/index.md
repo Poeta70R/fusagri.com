@@ -32,7 +32,7 @@ featured: false
 links:
 # - name: ''
 #url:''
-url_pdf: 'publication/bioeconomia-azul/algas_venezuela.pdf'
+url_pdf: 'publication/informe_citricas/Informe Citricas 2024.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
