@@ -12,9 +12,9 @@ tags:
 - Reforestación
 - Desarrollo social
 - Café
+
 subtitle: ''
-summary: 'Un Programa de Manejo y Conservación de Cuencas Hidrográficas, integrando la asistencia técnica y la autogestión comunitaria, en armonía con el ambiente, que se realizó entre los años 1988-1997, en la Sierra de San Luis, localizada en la parte occidental de la Cordillera Norte Costera de Venezuela en el Estado Falcón, la región más árida del país.
-'
+summary: 'Un Programa de Manejo y Conservación de Cuencas Hidrográficas, integrando la asistencia técnica y la autogestión comunitaria, en armonía con el ambiente, que se realizó entre los años 1988-1997, en la Sierra de San Luis, localizada en la parte occidental de la Cordillera Norte Costera de Venezuela en el Estado Falcón, la región más árida del país.'
 authors: []
 lastmod: '2021-04-28T00:46:55-03:00'
 featured: no

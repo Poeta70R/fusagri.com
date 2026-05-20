@@ -66,9 +66,9 @@ La tecnología solo es valiosa si se traduce en bienestar económico. Los result
 
 <img src="rufino.jpg" class="center-block" style="width:100%;">
 
->La hoja de ruta está a un clic: el **Manual de Secadores Solares**
+>La hoja de ruta está a un clic: el **Manual práctico de construcción y uso de secadores solares para café**
 
-Para que esta innovación se replique en el eje cafetalero, FUSAGRI ha sistematizado este conocimiento en un recurso práctico y gratuito, ofreciendo guías de construcción con materiales locales, protocolos de manejo de temperatura y estándares de calidad. Invitamos a técnicos, estudiantes y productores a descargar esta herramienta esencial para construir un modelo de alta eficiencia. El documento puede encontrarse en la **Biblioteca Virtual de FUSAGRI** , accesible en su sitio web oficial mediante este enlace: **https://www.fusagri.com/publication/** 
+Para que esta innovación se replique en el eje cafetalero, FUSAGRI ha sistematizado este conocimiento en un recurso práctico y gratuito, ofreciendo guías de construcción con materiales locales, protocolos de manejo de temperatura y estándares de calidad. Invitamos a técnicos, estudiantes y caficultores a descargar esta herramienta esencial para construir un modelo de alta eficiencia. El documento puede encontrarse en la **Biblioteca Virtual de FUSAGRI** , accesible gratuitamente en su sitio web oficial mediante este enlace: **https://www.fusagri.com/publication/** 
 
 ### Una pregunta para el futuro
 
