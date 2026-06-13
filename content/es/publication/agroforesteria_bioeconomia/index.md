@@ -60,5 +60,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-**Publicado en:** [REVISTA AGROALIMENTARIA](http://erevistas.saber.ula.ve/index.php/agroalimentaria/article/view/22517), Agroalimentaria, [S.l.], v. 32, n. 62, p. 291-304, mayo 2026. ISSN 2244-8128)
+**Publicado en:** [REVISTA AGROALIMENTARIA](http://erevistas.saber.ula.ve/index.php/agroalimentaria/article/view/22516), Agroalimentaria, [S.l.], v. 32, n. 62, p. 291-304, mayo 2026. ISSN 2244-8128)
 
